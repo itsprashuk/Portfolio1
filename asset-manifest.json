@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/https//prashukportfolio.github.io/portfolio1%20/static/css/main.060ad8c5.css",
-    "main.js": "/https//prashukportfolio.github.io/portfolio1%20/static/js/main.781362b1.js",
-    "static/js/787.1ed0c42c.chunk.js": "/https//prashukportfolio.github.io/portfolio1%20/static/js/787.1ed0c42c.chunk.js",
-    "static/media/proj5.jpg": "/https//prashukportfolio.github.io/portfolio1%20/static/media/proj5.0648813998893b8c53d0.jpg",
-    "static/media/food.jpg": "/https//prashukportfolio.github.io/portfolio1%20/static/media/food.f11612636cfda591d58d.jpg",
-    "static/media/insta.jpeg": "/https//prashukportfolio.github.io/portfolio1%20/static/media/insta.b731b69f92e579004e59.jpeg",
-    "index.html": "/https//prashukportfolio.github.io/portfolio1%20/index.html",
-    "main.060ad8c5.css.map": "/https//prashukportfolio.github.io/portfolio1%20/static/css/main.060ad8c5.css.map",
-    "main.781362b1.js.map": "/https//prashukportfolio.github.io/portfolio1%20/static/js/main.781362b1.js.map",
-    "787.1ed0c42c.chunk.js.map": "/https//prashukportfolio.github.io/portfolio1%20/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/https//itsprashuk.github.io/portfolio1%20/static/css/main.060ad8c5.css",
+    "main.js": "/https//itsprashuk.github.io/portfolio1%20/static/js/main.52457ade.js",
+    "static/js/787.1ed0c42c.chunk.js": "/https//itsprashuk.github.io/portfolio1%20/static/js/787.1ed0c42c.chunk.js",
+    "static/media/proj5.jpg": "/https//itsprashuk.github.io/portfolio1%20/static/media/proj5.0648813998893b8c53d0.jpg",
+    "static/media/food.jpg": "/https//itsprashuk.github.io/portfolio1%20/static/media/food.f11612636cfda591d58d.jpg",
+    "static/media/insta.jpeg": "/https//itsprashuk.github.io/portfolio1%20/static/media/insta.b731b69f92e579004e59.jpeg",
+    "index.html": "/https//itsprashuk.github.io/portfolio1%20/index.html",
+    "main.060ad8c5.css.map": "/https//itsprashuk.github.io/portfolio1%20/static/css/main.060ad8c5.css.map",
+    "main.52457ade.js.map": "/https//itsprashuk.github.io/portfolio1%20/static/js/main.52457ade.js.map",
+    "787.1ed0c42c.chunk.js.map": "/https//itsprashuk.github.io/portfolio1%20/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.060ad8c5.css",
-    "static/js/main.781362b1.js"
+    "static/js/main.52457ade.js"
   ]
 }
